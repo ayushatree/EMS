@@ -35,8 +35,7 @@ Copy code
 npm install
 npm run dev
 
-yaml
-Copy code
+
 
 ---
 
